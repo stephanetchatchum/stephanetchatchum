@@ -4,13 +4,13 @@ Welcome to my GitHub profile!
 
 I’m an aspiring software engineer, focused on building strong fundamentals and practical skills through hands-on projects and consistent learning.
 
-This profile (and its repositories) documents my journey as I grow across different areas of computer science and software engineering, including:
+This profile and its repositories documents my journey as I grow across different areas of computer science and software engineering, including:
 
 ## 🔧 What I Work On
-- **Data Structures & Algorithms** – building problem-solving depth and efficiency  
-- **System Design** – learning how real, scalable systems are structured  
-- **Game Development** – exploring interactive systems, mechanics, and engines  
-- **Machine Learning** – experimenting with data-driven models and simulations  
+- **Data Structures & Algorithms🖥️** – building problem-solving depth and efficiency  
+- **System Design🧠** – learning how real, scalable systems are structured  
+- **Game Development🎮** – exploring interactive systems, mechanics, and engines  
+- **Machine Learning🖥️** – experimenting with data-driven models and simulations  
 
 ## 📌 About This Repository
 This repository serves as an overview of who I am as a developer and where I’m headed.  
